@@ -2,7 +2,7 @@
 
 import Trans from '@/components/translation/Trans'
 import { SimulationRecap } from '@/types/organisations'
-import { FunFacts } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { FunFacts } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import DetailedStatistics from './orgaStatistics/DetailedStatistics'
 import FunFactsBlock from './orgaStatistics/FunFactsBlock'
 import StatisticsBlocks from './orgaStatistics/StatisticsBlocks'

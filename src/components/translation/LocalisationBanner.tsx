@@ -11,7 +11,7 @@ import { useLocale } from '@/hooks/useLocale'
 import { useUser } from '@/publicodes-state'
 import { capitalizeString } from '@/utils/capitalizeString'
 import { trackEvent } from '@/utils/matomo/trackEvent'
-import { SupportedRegions } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { SupportedRegions } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import Trans from './Trans'
 
 type Props = {

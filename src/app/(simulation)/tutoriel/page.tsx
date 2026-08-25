@@ -41,7 +41,7 @@ export default async function Tutoriel() {
               <span className="inline text-secondary-700">
                 <Trans>5 minutes</Trans>
               </span>{' '}
-              <Trans>chrono pour estimer l’empreinte carbone de votre séjour</Trans>
+              <Trans>chrono pour estimer l’empreinte carbone de votre festival</Trans>
             </>
           }
         />

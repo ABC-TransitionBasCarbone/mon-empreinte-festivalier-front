@@ -1,6 +1,6 @@
 import { getPosts } from '@/helpers/markdown/getPosts'
 import { encodeRuleName } from '@/utils/publicodes/encodeRuleName'
-import rules from '@abc-transitionbascarbone/calculateur-tourisme/public/co2-model.FR-lang.fr-opti.json'
+import rules from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/co2-model.FR-lang.fr-opti.json'
 import { MetadataRoute } from 'next'
 import { utils } from 'publicodes'
 

@@ -2,7 +2,7 @@
 
 import { PropsWithChildren } from 'react'
 
-import { DottedName, NGCRules } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRules } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { SimulationContext } from './context'
 import { useCategories } from './useCategories'
 import { useEngine } from './useEngine'

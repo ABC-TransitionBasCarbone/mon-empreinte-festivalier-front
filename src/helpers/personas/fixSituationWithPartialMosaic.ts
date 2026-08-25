@@ -1,6 +1,6 @@
 import getType from '@/publicodes-state/helpers/getType'
 import { Situation } from '@/publicodes-state/types'
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { EvaluatedNode, PublicodesExpression } from 'publicodes'
 
 type Props = {

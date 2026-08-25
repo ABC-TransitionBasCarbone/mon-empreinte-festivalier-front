@@ -1,5 +1,5 @@
 import { useRule } from '@/publicodes-state'
-import { DottedName, NodeValue } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NodeValue } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 type Props = {
   value: NodeValue

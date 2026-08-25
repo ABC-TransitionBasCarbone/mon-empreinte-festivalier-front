@@ -1,6 +1,6 @@
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { jest } from '@jest/globals'
-import rules from '@abc-transitionbascarbone/calculateur-tourisme/public/co2-model.FR-lang.fr.json'
+import rules from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/co2-model.FR-lang.fr.json'
 import Engine from 'publicodes'
 import getSomme from '../helpers/getSomme'
 import { Situation } from '../types'

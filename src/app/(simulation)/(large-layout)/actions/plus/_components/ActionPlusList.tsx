@@ -11,7 +11,7 @@ import {
   DottedName,
   NGCRule,
   NGCRules,
-} from '@abc-transitionbascarbone/calculateur-tourisme'
+} from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 type Props = {
   actions: Post[]

@@ -1,7 +1,7 @@
 import { defaultMetric } from '@/constants/metric'
 import { useEngine, useRule } from '@/publicodes-state'
 import { Metric } from '@/publicodes-state/types'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import SubcategoryListItem from './subcategoriesList/SubcategoryListItem'
 
 type Props = {

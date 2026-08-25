@@ -1,5 +1,5 @@
 {
-  "name": "@abc-transitionbascarbone/calculateur-tourisme-front",
+  "name": "@abc-transitionbascarbone/mon-empreinte-festivalier-front",
   "license": "MIT",
   "version": "1.0.0",
   "description": "Le front du calcul d'empreinte climat de tourisme, fork du modèle de calcul Nos Gestes Climat",
@@ -33,7 +33,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@abc-transitionbascarbone/calculateur-tourisme": "^1.0.27",
+    "@abc-transitionbascarbone/mon-empreinte-festivalier-modele": "^1.0.1",
     "@babel/runtime": "^8.0.0",
     "@incubateur-ademe/legal-pages-react": "^0.6.0",
     "@mdx-js/loader": "^3.1.1",

@@ -14,7 +14,7 @@ import {
 import { useForm, useRule } from '@/publicodes-state'
 import { capitalizeString } from '@/utils/capitalizeString'
 import { trackEvent } from '@/utils/matomo/trackEvent'
-import { DottedName, NodeValue } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NodeValue } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { twMerge } from 'tailwind-merge'
 
 type Props = {

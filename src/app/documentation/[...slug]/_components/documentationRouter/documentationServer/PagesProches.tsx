@@ -1,7 +1,7 @@
 import Link from '@/components/Link'
 import { getRuleTitle } from '@/helpers/publicodes/getRuleTitle'
 import { useUser } from '@/publicodes-state'
-import { DottedName, NGCRules } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRules } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { utils } from 'publicodes'
 
 export default function PagesProches({

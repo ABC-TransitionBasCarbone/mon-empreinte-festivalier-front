@@ -1,7 +1,7 @@
 'use client'
 
 import { useRule } from '@/publicodes-state'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 type Props = { question: DottedName }
 

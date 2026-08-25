@@ -8,7 +8,7 @@ export async function generateMetadata() {
   const { t } = await getServerTranslation()
   return getMetadataObject({
     title: t(
-      "Calculez l'empreinte de votre séjour en 5 minutes !"
+      "Calculez l'empreinte de votre festival en 5 minutes !"
     ),
     description: t(
       'Connaissez-vous votre empreinte sur le climat ? Faites le test et découvrez comment réduire votre empreinte carbone sur le climat.'

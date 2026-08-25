@@ -1,7 +1,7 @@
 'use client'
 
 import { carboneMetric } from '@/constants/metric'
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { EvaluatedNode, utils } from 'publicodes'
 import { useContext, useMemo } from 'react'
 import { SimulationContext } from '../../providers/simulationProvider/context'

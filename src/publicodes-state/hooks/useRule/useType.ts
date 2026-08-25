@@ -1,6 +1,6 @@
 'use client'
 
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { EvaluatedNode } from 'publicodes'
 import { useMemo } from 'react'
 import getType from '../../helpers/getType'

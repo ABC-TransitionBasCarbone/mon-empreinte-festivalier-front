@@ -1,4 +1,4 @@
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { Simulation } from '../types'
 import type { Migration } from '@publicodes/tools/migration'
 import { migrateSituation } from '@publicodes/tools/migration'

@@ -1,7 +1,7 @@
 import { defaultMetric, metrics } from '@/constants/metric'
 import { useCurrentSimulation } from '@/publicodes-state'
 import { getComputedResults } from '@/publicodes-state/helpers/getComputedResults'
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { EvaluatedNode } from 'publicodes'
 import { useCallback, useEffect, useMemo, useRef } from 'react'
 import type { ComputedResults, Metric } from '../../types'

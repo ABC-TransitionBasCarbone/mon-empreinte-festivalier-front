@@ -1,4 +1,4 @@
-import { DottedName, NGCRule } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRule } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 /**
  * We use this hook to get the content of the [somme] of a rule.

@@ -3,7 +3,7 @@ import {
   NGCRule,
   NGCRuleNode,
   NGCRulesNodes,
-} from '@abc-transitionbascarbone/calculateur-tourisme'
+} from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { utils } from 'publicodes'
 import getSomme from './getSomme'
 

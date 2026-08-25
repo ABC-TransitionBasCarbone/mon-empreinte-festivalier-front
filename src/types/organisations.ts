@@ -3,7 +3,7 @@ import {
   Simulation,
   Situation,
 } from '@/publicodes-state/types'
-import { FunFacts } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { FunFacts } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 export type OrganisationSimulation = Simulation & {
   bilan: number

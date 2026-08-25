@@ -9,7 +9,7 @@ import {
   getTextDarkColor,
 } from '@/helpers/getCategoryColorClass'
 import { useEngine } from '@/publicodes-state'
-import { DottedName, NGCRule } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRule } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import Markdown from 'markdown-to-jsx'
 import { utils } from 'publicodes'
 

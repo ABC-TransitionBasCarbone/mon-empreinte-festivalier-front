@@ -3,7 +3,7 @@
 import Navigation from '@/components/form/Navigation'
 import Question from '@/components/form/Question'
 import { useForm } from '@/publicodes-state'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { motion } from 'framer-motion'
 import { useEffect } from 'react'
 

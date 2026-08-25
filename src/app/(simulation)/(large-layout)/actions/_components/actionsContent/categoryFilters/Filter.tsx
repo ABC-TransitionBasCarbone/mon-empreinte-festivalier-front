@@ -9,7 +9,7 @@ import {
 import { useQueryParams } from '@/hooks/useQueryParams'
 import { useRule } from '@/publicodes-state'
 import { trackEvent } from '@/utils/matomo/trackEvent'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { useSearchParams } from 'next/navigation'
 
 type Props = {

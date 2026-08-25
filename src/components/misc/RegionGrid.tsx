@@ -4,7 +4,7 @@ import CountryListItem from '@/components/misc/CountryListItem'
 import { sortSupportedRegions } from '@/helpers/localisation/sortSupportedRegions'
 import { useLocale } from '@/hooks/useLocale'
 import { capitalizeString } from '@/utils/capitalizeString'
-import { SupportedRegions } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { SupportedRegions } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { HTMLAttributes } from 'react'
 
 type Props = {

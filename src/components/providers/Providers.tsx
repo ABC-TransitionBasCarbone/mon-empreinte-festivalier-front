@@ -8,7 +8,7 @@ import {
   useCurrentSimulation,
   useUser,
 } from '@/publicodes-state'
-import { SupportedRegions } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { SupportedRegions } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { PropsWithChildren, Suspense, useState } from 'react'
 import Error500 from '../layout/500'
 import PRNumberHook from './providers/PRNumberHook'

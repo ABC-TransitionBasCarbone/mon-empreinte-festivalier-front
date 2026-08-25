@@ -23,7 +23,7 @@ export default function AvantDeCommencer() {
           <span className="hidden md:inline">
             {' '}
             <Trans>
-              Même si vous ne voyageait probablement pas seul, répondez aux questions en votre nom. Bien sûr, pendant un séjour, de nombreuses choses sont souvent partagées (voiture, hébergement) et cela est bien pris en compte dans le calcul de l’empreinte carbone de votre séjour
+              Même si vous ne voyageait probablement pas seul, répondez aux questions en votre nom. Bien sûr, pendant un séjour, de nombreuses choses sont souvent partagées (voiture, hébergement) et cela est bien pris en compte dans le calcul de l’empreinte carbone de votre festival
             </Trans>
           </span>
         </p>

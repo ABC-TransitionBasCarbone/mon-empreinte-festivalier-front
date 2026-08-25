@@ -1,6 +1,6 @@
 import { replacePlaceHolders } from '@/constants/territories/questions';
 import { TerritoriesType } from '@/utils/territories';
-import { DottedName, NGCRule } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRule } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { utils } from 'publicodes'
 
 export const getRuleTitle = (

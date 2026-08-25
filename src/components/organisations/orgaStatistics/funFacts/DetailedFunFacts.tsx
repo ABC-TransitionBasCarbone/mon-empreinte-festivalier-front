@@ -4,7 +4,7 @@ import { organisationsDashboardClickFunFactsDownload } from '@/constants/trackin
 import Button from '@/design-system/inputs/Button'
 import { Entries } from '@/publicodes-state/types'
 import { trackEvent } from '@/utils/matomo/trackEvent'
-import { DottedName, FunFacts } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, FunFacts } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { toPng } from 'html-to-image'
 import { useParams } from 'next/navigation'
 import { utils } from 'publicodes'

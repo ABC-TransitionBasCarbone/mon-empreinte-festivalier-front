@@ -1,5 +1,5 @@
 import { Engine, Entries, ParsedRules } from '@/publicodes-state/types'
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { utils } from 'publicodes'
 import { useMemo } from 'react'
 import { MissingVariables } from './../../types.d'

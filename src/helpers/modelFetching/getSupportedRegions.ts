@@ -1,5 +1,5 @@
-import { SupportedRegions } from '@abc-transitionbascarbone/calculateur-tourisme'
-import supportedRegions from '@abc-transitionbascarbone/calculateur-tourisme/public/supportedRegions.json'
+import { SupportedRegions } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
+import supportedRegions from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/supportedRegions.json'
 
 /**
  * This function is used to get the supported regions. It can be called directly from a server component.

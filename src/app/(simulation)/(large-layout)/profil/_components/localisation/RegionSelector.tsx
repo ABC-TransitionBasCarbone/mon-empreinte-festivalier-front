@@ -20,7 +20,7 @@ import { useLocale } from '@/hooks/useLocale'
 import { useRules } from '@/hooks/useRules'
 import { useUser } from '@/publicodes-state'
 import { trackEvent } from '@/utils/matomo/trackEvent'
-import { SupportedRegions } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { SupportedRegions } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 type Props = {
   isOpen?: boolean

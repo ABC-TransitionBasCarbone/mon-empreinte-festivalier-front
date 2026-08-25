@@ -1,7 +1,7 @@
 // Return tracking data in format
 // [ 'trackEvent', 'Category', 'Action', 'Name', 'Value' ]
 
-import { DottedName, NodeValue } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NodeValue } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 type Props = {
   question: DottedName

@@ -1,6 +1,6 @@
 import { getMetadataObject } from '@/helpers/metadata/getMetadataObject'
 import { FormProvider } from '@/publicodes-state'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { PropsWithChildren } from 'react'
 
 type Props = { params: Promise<{ root: DottedName }> }
@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: Props) {
 
   return getMetadataObject({
     title: 'Mon séjour durable',
-    description: "Calculez l'empreinte de votre séjour en 5 minutes !",
+    description: "Calculez l'empreinte de votre festival en 5 minutes !",
     alternates: {
       canonical: `/simulateur/${root}`,
     },

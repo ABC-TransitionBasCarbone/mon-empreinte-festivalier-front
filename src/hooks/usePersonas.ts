@@ -1,5 +1,5 @@
 import { getPersonas } from '@/helpers/modelFetching/getPersonas'
-import { Personas } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { Personas } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import {
   UseQueryResult,
   keepPreviousData,

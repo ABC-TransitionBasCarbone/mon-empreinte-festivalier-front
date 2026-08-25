@@ -1,6 +1,6 @@
 import Title from '@/design-system/layout/Title'
 import { useRule } from '@/publicodes-state'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 export default function FunFactsPlusCategoryTitle({
   category,

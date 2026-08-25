@@ -1,4 +1,4 @@
-import migration from '@abc-transitionbascarbone/calculateur-tourisme/public/migration.json'
+import migration from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/migration.json'
 import { Migration } from '@publicodes/tools/migration'
 import { importPreviewFile } from './importPreviewFile'
 

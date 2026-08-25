@@ -1,6 +1,6 @@
 'use client'
 
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { createContext } from 'react'
 
 type FormContextType = {

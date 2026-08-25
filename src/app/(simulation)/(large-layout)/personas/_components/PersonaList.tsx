@@ -1,6 +1,6 @@
 'use client'
 
-import { Personas } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { Personas } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import Persona from './Persona'
 
 type Props = {

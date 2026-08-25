@@ -18,15 +18,6 @@ export default function Partners({ territory }: { territory: TerritoriesType }) 
             className="h-auto w-20"
           />
         </Link>
-        <Link href="https://www.tourisme-en-hautsdefrance.com/" target="_blank">
-          <Image
-            src="/images/misc/logo-hdf.png"
-            alt="Logo de Haut de France tourisme"
-            width="600"
-            height="253"
-            className="h-auto w-32"
-          />
-        </Link>
         {additionnalPartners?.map((partner, idx) => <Link href={partner.href} target="_blank" key={`partner-${idx}`}>
           <Image
             src={partner.src}

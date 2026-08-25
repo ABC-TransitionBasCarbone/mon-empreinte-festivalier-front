@@ -2,7 +2,7 @@
 import { carboneMetric, eauMetric } from '@/constants/metric'
 import Emoji from '@/design-system/utils/Emoji'
 import { useClientTranslation } from '@/hooks/useClientTranslation'
-import { Metrics } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { Metrics } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import Select, { Options, components } from 'react-select'
 import Trans from '../translation/Trans'
 

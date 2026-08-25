@@ -89,6 +89,7 @@ const nextConfig = {
   experimental: {
     webpackBuildWorker: true,
   },
+  outputFileTracingRoot: path.join(__dirname, '../'),
   turbopack: {
     resolveAlias: {
       '@publicodes/tools/migration': './node_modules/@publicodes/tools/dist/migration/index.mjs',

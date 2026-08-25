@@ -5,7 +5,7 @@ import {
   DottedName,
   NGCRuleNode,
   NGCRulesNodes,
-} from '@abc-transitionbascarbone/calculateur-tourisme'
+} from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { useMemo } from 'react'
 
 type Props = {

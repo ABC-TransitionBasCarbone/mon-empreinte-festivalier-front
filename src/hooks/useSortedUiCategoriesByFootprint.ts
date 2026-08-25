@@ -1,7 +1,7 @@
 import { eauMetric } from '@/constants/metric'
 import { useEngine, useSimulation } from '@/publicodes-state'
 import { Metric } from '@/publicodes-state/types'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { useMemo } from 'react'
 
 type Props = {

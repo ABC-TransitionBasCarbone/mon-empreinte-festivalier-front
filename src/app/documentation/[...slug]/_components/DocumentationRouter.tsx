@@ -2,7 +2,7 @@
 
 import Providers from '@/components/providers/Providers'
 import { useCurrentSimulation } from '@/publicodes-state'
-import { NGCRules } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { NGCRules } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { JSX, useContext, useEffect } from 'react'
 import { IsDocumentationClientContext } from '../../_contexts/DocumentationStateContext'
 import DocumentationClient from './documentationRouter/DocumentationClient'

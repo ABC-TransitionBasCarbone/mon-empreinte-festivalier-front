@@ -1,7 +1,7 @@
-import { Personas } from '@abc-transitionbascarbone/calculateur-tourisme'
-import personasEN from '@abc-transitionbascarbone/calculateur-tourisme/public/personas-en.json'
-import personasES from '@abc-transitionbascarbone/calculateur-tourisme/public/personas-es.json'
-import personasFR from '@abc-transitionbascarbone/calculateur-tourisme/public/personas-fr.json'
+import { Personas } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
+import personasEN from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/personas-en.json'
+import personasES from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/personas-es.json'
+import personasFR from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/personas-fr.json'
 import { importPreviewFile } from './importPreviewFile'
 
 const personasByLocale: Record<string, Personas> = {

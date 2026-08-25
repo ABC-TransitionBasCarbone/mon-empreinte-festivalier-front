@@ -1,6 +1,6 @@
 import { getCurrentLangInfos } from '@/locales/translation'
 import { TranslationFunctionType } from '@/types/translation'
-import { NodeValue } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { NodeValue } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 
 const getRawUnitDigitsArray = ({
   value,

@@ -5,7 +5,7 @@ import {
   DottedName,
   NGCRuleNode,
   Suggestions,
-} from '@abc-transitionbascarbone/calculateur-tourisme'
+} from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { useMemo } from 'react'
 import { FormattedSuggestion } from '../../types'
 import { useUser } from '@/publicodes-state'

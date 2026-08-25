@@ -5,7 +5,7 @@ import {
   getTextDarkColor,
 } from '@/helpers/getCategoryColorClass'
 import { useRule } from '@/publicodes-state'
-import { DottedName } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { twMerge } from 'tailwind-merge'
 import Actions from './subcategory/Actions'
 
@@ -37,7 +37,7 @@ export default function Subcategory({ subcategory, index }: Props) {
         </div>
         <Emoji className="text-4xl lg:text-6xl">{icons?.slice(0, 2)}</Emoji>
       </div>
-      <Actions subcategory={subcategory}  noNumberedFootprint/>
+      <Actions subcategory={subcategory} noNumberedFootprint />
     </div>
   )
 }

@@ -1,4 +1,4 @@
-import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, NGCRuleNode } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { Engine } from '../types'
 
 export const safeGetRuleHelper = (

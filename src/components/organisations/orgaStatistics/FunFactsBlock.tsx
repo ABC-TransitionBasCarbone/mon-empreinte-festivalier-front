@@ -1,6 +1,6 @@
 'use client'
 
-import { DottedName, FunFacts } from '@abc-transitionbascarbone/calculateur-tourisme'
+import { DottedName, FunFacts } from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { twMerge } from 'tailwind-merge'
 import FunFactsItem from './funFacts/FunFactsItem'
 

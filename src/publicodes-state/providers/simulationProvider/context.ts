@@ -3,7 +3,7 @@ import {
   DottedName,
   NGCRuleNode,
   NGCRules,
-} from '@abc-transitionbascarbone/calculateur-tourisme'
+} from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele'
 import { EvaluatedNode, PublicodesExpression } from 'publicodes'
 import { createContext } from 'react'
 import {

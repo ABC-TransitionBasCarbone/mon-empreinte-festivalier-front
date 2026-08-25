@@ -3,7 +3,7 @@
 import ErrorBoundary from '@/components/error/ErrorBoundary'
 import { UserProvider } from '@/publicodes-state'
 import { RegionFromGeolocation } from '@/publicodes-state/types'
-import migrationInstructions from '@abc-transitionbascarbone/calculateur-tourisme/public/migration.json'
+import migrationInstructions from '@abc-transitionbascarbone/mon-empreinte-festivalier-modele/public/migration.json'
 import { PropsWithChildren, useEffect, useState } from 'react'
 import { IframeOptionsProvider } from './mainLayoutProviders/IframeOptionsContext'
 import MainHooks from './mainLayoutProviders/MainHooks'
